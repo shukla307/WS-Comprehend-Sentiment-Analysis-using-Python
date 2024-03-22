@@ -1,1 +1,1 @@
-# WS-Comprehend-Sentiment-Analysis-using-Python
+# AWS-Comprehend-Sentiment-Analysis-using-Python
